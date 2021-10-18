@@ -4,4 +4,4 @@
         . . # # . 
         . . # . . 
         . . # . .
-        `</field></block></statement></block></xml>
+        `</field></block></statement></block><block type="device_button_event" id="X$EDw_CH-@=$M+rR#VBg" x="332" y="179"><field name="NAME">Button.A</field><statement name="HANDLER"><block type="basic_show_icon" id="7-N@!`b6{(nL6D7?AQN("><field name="i">IconNames.Heart</field></block></statement></block></xml>
